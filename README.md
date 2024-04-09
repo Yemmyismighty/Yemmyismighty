@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adeyemi
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning front-end development
+- 👀 I’m interested in cyber security and application development
+- 🌱 I’m proficient in both back-end and front-end develoment
 - 💞️ I’m looking to collaborate on Web application development
 - 📫 How to reach me yemmyakitoye@gmail.com
 
