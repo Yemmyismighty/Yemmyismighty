@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeyemi
 
-💻 Cybersecurity undergrad | Full-Stack Developer | AI & Automation Enthusiast  
+💻 Cybersecurity Graduate | Full-Stack Developer | AI & Automation Enthusiast  
 
 I build secure, scalable, and user-focused applications — from fintech trading systems to publishing platforms.  
 On Upwork and beyond, I help businesses and creators bring their ideas to life with clean, production-ready code.  
